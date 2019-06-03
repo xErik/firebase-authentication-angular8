@@ -2,6 +2,11 @@
 
 Firebase Authentication with Angular 8 tutorial - Setting up an authentication system with Firebase in your web and mobile apps is very easy.
 
+## Firebase authentication system topics:
+
+* signInWithEmailAndPassword
+* email/password signup
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 [Firebase Authentication in Angular 8 with AngularFire2](https://www.positronx.io/firebase-authentication-in-angular-8-with-angularfire2/)
