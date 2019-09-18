@@ -21,6 +21,7 @@ export class AppComponent {
   }
 
   signIn() {
+    this.authenticationService.SignIn(this.email, this.password);
     this.email = ''; 
     this.password = '';
   }
